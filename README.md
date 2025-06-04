@@ -1,1 +1,1 @@
-# Tourism_Experience_Analytics
+Tourism agencies and travel platforms strive to improve user experiences by utilizing data-driven insights. This project focuses on analyzing user preferences, travel behaviors, and attraction characteristics to achieve three key objectives: predicting user satisfaction (regression), categorizing user behavior (classification), and offering personalized travel suggestions (recommendation).
